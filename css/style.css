@@ -1,0 +1,16 @@
+.table tr {
+  border-top: 30px solid #353a40;
+  border-bottom: 30px solid #353a40;
+}
+.thead {
+    background-color: #17a2b7;
+}
+.tbody1 {
+    background-color: #27a844;
+}
+.tbody2 {
+    background-color: #fec007;
+}
+.tbody3 {
+    background-color: #dc3546;
+}
